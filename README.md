@@ -67,13 +67,14 @@ NBTSTAT
 
 ARP
 
-![WhatsApp Image 2024-11-15 at 13 30 54_9078e1aa](https://github.com/user-attachments/assets/8c0a94f3-5156-4e4e-93b0-de22194c0144)
+![WhatsApp Image 2024-11-15 at 13 31 03_480c7fc9](https://github.com/user-attachments/assets/9fc274cb-927b-40a4-a1dc-135568640c54)
+
 
 
 
 SYSTEM INFO
 
-![WhatsApp Image 2024-11-15 at 13 31 30_6e2d8e5e](https://github.com/user-attachments/assets/755d65f3-e1c5-40b2-a836-a0c50d586e48)
+![WhatsApp Image 2024-11-15 at 13 31 25_785e0765](https://github.com/user-attachments/assets/ac48d4c1-604f-4cb0-b705-99e8917eea6f)
 
 
 
