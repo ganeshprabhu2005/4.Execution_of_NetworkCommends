@@ -61,6 +61,7 @@ HOSTNAME
 ![WhatsApp Image 2024-11-15 at 13 30 47_16aa79e0](https://github.com/user-attachments/assets/eb17337b-9b51-414b-bc44-81a9c0e4fad1)
 
 NBTSTAT
+
 ![WhatsApp Image 2024-11-15 at 13 30 53_5cabdf4f](https://github.com/user-attachments/assets/0f04d43b-64d8-4f73-b5a7-61e4e7510f9c)
 
 
